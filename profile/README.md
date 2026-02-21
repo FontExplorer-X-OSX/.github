@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/330048/m/fontexplorer-x-pro-screenshot.png?v=1646234771" alt="FontExplorer X screenshot"/>
+  <img src="https://macx.ws/uploads/posts/2017-10/1507389339_fontexplorer_01.jpg" alt="FontExplorer X screenshot"/>
 </p>
 
 ---
@@ -37,12 +37,6 @@ The application supports font plugins enabling direct font access within design 
 - <a href="#">Plugin</a> support enabling design application integration
 - Smart <a href="#">sets</a> creating dynamic font collections
 - <a href="#">Efficient</a> handling managing massive font libraries
-
----
-
-<p align="center">
-  <img src="https://macx.ws/uploads/posts/2017-10/1507389339_fontexplorer_01.jpg" alt="FontExplorer X screenshot"/>
-</p>
 
 ---
 
